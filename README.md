@@ -4,15 +4,8 @@
 **Cristiane11/Cristiane11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<p>
-    Cristiane Abreu is Versatile, client-focused, and motivated
-            professional with nearly ten years’ experience providing Search
-            Engine Optimization (SEO) and Website Optimization services
-            world-wide. Trained and experienced Google Ads, Google Search
-            Console, & Analytics trained and certified consultant. Experience
-            conducting onsite audits and action plans. Developing website using
-            html5, css3, javascript(ES6) , and  using react js.
-</P
+   
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Cristiane Abreu is Versatile, client-focused, and motivated
+professional with nearly ten years’ experience providing Search
+Engine Optimization (SEO) and Website Optimization services
+world-wide. Trained and experienced Google Ads, Google Search
+Console, & Analytics trained and certified consultant. Experience
+conducting onsite audits and action plans. Developing website using
+html5, css3, javascript(ES6) , and  using react js.
